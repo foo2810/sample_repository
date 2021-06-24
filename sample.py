@@ -1,6 +1,8 @@
 """HASC dataset
 
 http://hasc.jp/
+
+Modified
 """
 
 import functools
